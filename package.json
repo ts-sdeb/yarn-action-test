@@ -2,7 +2,7 @@
   "name": "docs",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://thrivestack-ai.github.io/docs",
+  "homepage": "https://ts-sdeb.github.io/yarn-action-test",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
