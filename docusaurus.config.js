@@ -148,7 +148,8 @@ const config = {
         docsPluginId: "classic",
         config: {
           public_apis: {
-            specPath: "specs/public_apis.yaml",
+            //specPath: "specs/public_apis.yaml",
+            specPath: "https://www.dropbox.com/scl/fi/pml9nselajw3qge0wor0x/public_apis.yaml?rlkey=pm75rj65izlogtwmcfl143g8p&dl=1",
             outputDir: "docs/public_apis",
             downloadUrl:
               "https://raw.githubusercontent.com/PaloAltoNetworks/docusaurus-template-openapi-docs/main/examples/petstore.yaml",
